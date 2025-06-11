@@ -2,7 +2,7 @@
   <img src="https://github.com/CYFARE/CAVE/blob/main/assets/CAVE.png" alt="CAVE Logo">
 </h1>
 
-## <h2 align="center">
+<h2 align="center">
   <img src="https://img.shields.io/badge/-GPLv2.0-61DAFB?style=for-the-badge" alt="License: GPLv2.0">&nbsp;
 </h2>
 
