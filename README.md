@@ -1,5 +1,3 @@
-# CAVE: Concealed Artifacts for Volatile Evasion
-
 <h1 align="center">
   <img src="https://github.com/CYFARE/CAVE/blob/main/assets/CAVE.png" alt="CAVE Logo">
 </h1>
@@ -8,7 +6,7 @@
   <img src="https://img.shields.io/badge/-GPLv2.0-61DAFB?style=for-the-badge" alt="License: GPLv2.0">&nbsp;
 </h2>
 
-**CAVE**, or **C**oncealed **A**rtifacts for **V**olatile **E**vasion - A modular command-line tool designed to generate various Windows AV/EDR evasion artifacts.
+**CAVE**, is a modular command-line tool designed to generate various Windows AV/EDR evasion artifacts.
 
 ## Releases & Features
 
